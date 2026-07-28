@@ -1,0 +1,5 @@
+admin|1234|Admin
+mohamed|1111|Student
+john|2222|Student
+jorge|4321|Student
+rithuu|1128|Student

@@ -1,0 +1,5 @@
+101|mohamed|Hostel|Electricity|Fan Not Working|Pending
+102|john|Academic|Library|Books Not Available|In Progress
+103|mohamed|Sanitation|Cleanliness|Washroom Cleaning Required|Resolved
+104|jorge|aiml|water problem|tap is not working|Pending
+105|mohamed|fight in clg|internet|the internet fight happens in clg|Pending
